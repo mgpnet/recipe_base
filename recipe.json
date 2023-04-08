@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Espaguete à Putanesca",
+        "dificult": "Baixa",
+        "description": "?",
+        "category": "Massas",
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/receitas-18ce8.appspot.com/o/massas%2FEspaguete%20%C3%A0%20Putanesca.jpg?alt=media&token=74560185-ef46-4050-a73f-ee29b9cb13a8",
+        "cookingTime": "30min",
+        "servings": "4",
+        "ingredients": "2 colheres (sopa) de azeite,3 dentes de alho amassados,1 cebola picada,meio quilo de tomate sem pele e sem sementes, picado,5 colheres (sopa) de filé de anchovas cerca de 50 g,1 xícara (chá) de azeitonas pretas grandes em rodelas cerca de 100 g,1 lata de molho de tomate pronto,1 envelope de MAGGI Tempero e Sabor Massas e Molhos,1 colher (sopa) de manjericão,3 colheres (sopa) de alcaparras cerca de 50 g,meio pacote de macarrão espaguete",
+        "preparation": "Em uma panela, aqueça o azeite e refogue o alho e a cebola, até a cebola murchar. Acrescente os tomates e cozinhe por cerca de 5 minutos. Junte a anchova, as azeitonas, o molho de tomate e o MAGGI Tempero e Sabor e deixe apurar por cerca de 10 minutos. Retire do fogo e finalize com o manjericão e as alcaparras. Reserve aquecido. Em uma panela, ferva cerca de dois litros de água com sal. Cozinhe o macarrão até ficar “al dente”. Passe por um escorredor e sirva com o molho."
+    },
+    {
+        "title": "Lula a dorê",
+        "dificult": "Baixa",
+        "description": "?",
+        "category": "Frutos Do Mar",
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/receitas-18ce8.appspot.com/o/frutosDoMar%2FLula%20a%20dor%C3%AA.jpg?alt=media&token=4806b4b6-0eb9-4af3-8636-87440a1c5c9a",
+        "cookingTime": "20min",
+        "servings": "4",
+        "ingredients": "1 kg de lula,1 copo de farinha de trigo,Suco de 1 limão,3 dentes de alho,2 colheres de vinagre,Sal a gosto,Óleo para fritar",
+        "preparation": "Limpe as lulas retirando tudo de dentro e a cabeça. Lave-as e corte-as em rodelas. Tempere com o limão, o sal, o vinagre e o alho. Passe na farinha de trigo e sacuda para tirar o excesso do trigo. Frite no óleo bem quente."
+    }
+]
